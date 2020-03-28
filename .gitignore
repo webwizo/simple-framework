@@ -1,0 +1,10 @@
+/node_modules
+/public/storage
+/vendor
+.env
+.env.backup
+npm-debug.log
+yarn-error.log
+composer.lock
+error_log
+/public/error_log
